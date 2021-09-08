@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Title: module for csv text reading,writing
+Title: module for csv file reading,writing
 """
 
 from typing import Dict, List
