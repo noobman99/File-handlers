@@ -1,13 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jul 29 19:13:33 2021
 Title: module for csv text reading,writing
-@author: hp
 """
 
-
 from typing import Dict, List
-
 
 class File():
 
